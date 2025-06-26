@@ -53,7 +53,7 @@ git clone https://github.com/devburcu/spend-bill-gates-money.git
 
 ## 🌐 Live Demo
 
-- 🔗 [Projeyi canlı olarak görmek için tıklayın](fancy-pastelito-b75800.netlify.app)
+- 🔗 [Projeyi canlı olarak görmek için tıklayın](https://fancy-pastelito-b75800.netlify.app/)
 
 ## 💻 Masaüstü Görünümü
 
