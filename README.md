@@ -51,6 +51,9 @@ git clone https://github.com/devburcu/spend-bill-gates-money.git
 
 4. npm run dev
 
+## 🌐 Live Demo
+
+- 🔗 [Projeyi canlı olarak görmek için tıklayın](fancy-pastelito-b75800.netlify.app)
 
 ## 💻 Masaüstü Görünümü
 
