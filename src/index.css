@@ -1,0 +1,16 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+/* input[type=number] {
+  -moz-appearance: textfield;
+} */
+
+/* background: linear-gradient(to top, #55BD9C, #5BC486, #60CC72); */
+
